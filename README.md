@@ -19,7 +19,7 @@ I'm currently working on: A blockchain-based apparel authentication system<br>I'
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nevil1234&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Developer's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
