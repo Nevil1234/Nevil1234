@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Nevil Sequeira</h1>
+
+<h3 align="center">
+Software Engineer • Full-Stack Developer • Startup Builder
+</h3>
+
+<p align="center">
+Passionate about building scalable software, AI-powered applications, and modern web platforms.
+</p>
+
+<p align="center">
+💻 Full Stack Development • 🚀 SaaS Products • 🤖 AI • ☁️ Cloud • 🌍 Open Source
+</p>
+
 # 💫 About Me:
 🔭 Building modern full-stack applications and startup products.<br>🚀 Passionate about scalable backend systems and cloud architecture.<br>🌱 Currently exploring AI, distributed systems and developer tooling.<br>💬 Ask me about React, Node.js, PostgreSQL, MERN and system design.<br>🤝 Always happy to collaborate on innovative software projects.<br>⚡ I enjoy building products from idea → design → deployment.
 
