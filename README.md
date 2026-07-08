@@ -26,8 +26,8 @@ Passionate about building scalable software, AI-powered applications, and modern
 ![](https://streak-stats.demolab.com/?user=Nevil1234&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nevil1234&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nevil1234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📈 GitHub Activity Graph
+[![Nevil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nevil1234&theme=github-dark&hide_border=true)](https://github.com/Nevil1234)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
