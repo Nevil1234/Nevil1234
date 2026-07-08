@@ -32,8 +32,12 @@ Passionate about building scalable software, AI-powered applications, and modern
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nevil1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nevil1234/Nevil1234/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nevil1234/Nevil1234/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Nevil1234/Nevil1234/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Nevil1234&icon=0&color=0)](https://visitcount.itsvg.in)
