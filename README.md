@@ -67,12 +67,8 @@ Building scalable software, AI-powered applications, and modern web platforms.
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nevil1234&theme=tokyo-night&hide_border=true"
-    alt="Nevil's GitHub Activity Graph"
-  />
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 ---
 
